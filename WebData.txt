@@ -1,0 +1,3 @@
+Protocol: https
+Host: stackoverflow.com
+File name: /questions/43220486/validating-input-with-try-catch
